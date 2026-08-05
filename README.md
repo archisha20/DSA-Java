@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/archisha20/DSA-Java/tree/master/0031-next-permutation) |
+| [0128-longest-consecutive-sequence](https://github.com/archisha20/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/archisha20/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/archisha20/DSA-Java/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -19,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/archisha20/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [3731-find-missing-elements](https://github.com/archisha20/DSA-Java/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/archisha20/DSA-Java/tree/master/3731-find-missing-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/archisha20/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
