@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/archisha20/DSA-Java/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/archisha20/DSA-Java/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/archisha20/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/archisha20/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/archisha20/DSA-Java/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/archisha20/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/archisha20/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/archisha20/DSA-Java/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/archisha20/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/archisha20/DSA-Java/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
