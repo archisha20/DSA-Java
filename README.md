@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/archisha20/DSA-Java/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/archisha20/DSA-Java/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/archisha20/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0766-toeplitz-matrix](https://github.com/archisha20/DSA-Java/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/archisha20/DSA-Java/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/archisha20/DSA-Java/tree/master/0066-plus-one) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/archisha20/DSA-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
