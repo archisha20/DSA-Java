@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/archisha20/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/archisha20/DSA-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/archisha20/DSA-Java/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/archisha20/DSA-Java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/archisha20/DSA-Java/tree/master/0066-plus-one) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/archisha20/DSA-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/archisha20/DSA-Java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
