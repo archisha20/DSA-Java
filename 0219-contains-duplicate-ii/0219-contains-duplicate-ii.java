@@ -9,9 +9,6 @@ class Solution {
                 if(i - prev <= k){
                     return true;
                 }
-
-
-               
             }
              map.put(num,i);
         }
