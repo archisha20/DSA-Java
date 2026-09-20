@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/archisha20/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/archisha20/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/archisha20/DSA-Java/tree/master/0383-ransom-note) |
+| [3498-reverse-degree-of-a-string](https://github.com/archisha20/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
