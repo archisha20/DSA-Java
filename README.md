@@ -89,9 +89,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/archisha20/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/archisha20/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archisha20/DSA-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/archisha20/DSA-Java/tree/master/0383-ransom-note) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archisha20/DSA-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3498-reverse-degree-of-a-string](https://github.com/archisha20/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
