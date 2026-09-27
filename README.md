@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/archisha20/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/archisha20/DSA-Java/tree/master/0766-toeplitz-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/archisha20/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/archisha20/DSA-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/archisha20/DSA-Java/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/archisha20/DSA-Java/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/archisha20/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/archisha20/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/archisha20/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/archisha20/DSA-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archisha20/DSA-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String
 |  |
