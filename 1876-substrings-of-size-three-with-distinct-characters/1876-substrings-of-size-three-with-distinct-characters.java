@@ -9,7 +9,7 @@ class Solution {
                 freq[s.charAt(i-3) - 'a']--;
             }
 
-            if(i>=3-1){
+            if(i>=2){
                 boolean diff = true;
 
                 for(int j = 0; j < 26; j++){
