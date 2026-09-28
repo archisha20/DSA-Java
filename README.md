@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/archisha20/DSA-Java/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/archisha20/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/archisha20/DSA-Java/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/archisha20/DSA-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/archisha20/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/archisha20/DSA-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/archisha20/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/archisha20/DSA-Java/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/archisha20/DSA-Java/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/archisha20/DSA-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -94,12 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/archisha20/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/archisha20/DSA-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/archisha20/DSA-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/archisha20/DSA-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archisha20/DSA-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/archisha20/DSA-Java/tree/master/0383-ransom-note) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/archisha20/DSA-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/archisha20/DSA-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archisha20/DSA-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3498-reverse-degree-of-a-string](https://github.com/archisha20/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
