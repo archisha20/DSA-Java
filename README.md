@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/archisha20/DSA-Java/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/archisha20/DSA-Java/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/archisha20/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0209-minimum-size-subarray-sum](https://github.com/archisha20/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/archisha20/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/archisha20/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/archisha20/DSA-Java/tree/master/0766-toeplitz-matrix) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/archisha20/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/archisha20/DSA-Java/tree/master/3903-smallest-stable-index-i) |
 ## Counting
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/archisha20/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/archisha20/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/archisha20/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/archisha20/DSA-Java/tree/master/1052-grumpy-bookstore-owner) |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/archisha20/DSA-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archisha20/DSA-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3498-reverse-degree-of-a-string](https://github.com/archisha20/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/archisha20/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
