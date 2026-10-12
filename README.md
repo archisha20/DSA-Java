@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/archisha20/DSA-Java/tree/master/0031-next-permutation) |
+| [0567-permutation-in-string](https://github.com/archisha20/DSA-Java/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/archisha20/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/archisha20/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/archisha20/DSA-Java/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/archisha20/DSA-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/archisha20/DSA-Java/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/archisha20/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/archisha20/DSA-Java/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/archisha20/DSA-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/archisha20/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/archisha20/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/archisha20/DSA-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/archisha20/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/archisha20/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/archisha20/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/archisha20/DSA-Java/tree/master/1052-grumpy-bookstore-owner) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/archisha20/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/archisha20/DSA-Java/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/archisha20/DSA-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/archisha20/DSA-Java/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/archisha20/DSA-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/archisha20/DSA-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/archisha20/DSA-Java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
